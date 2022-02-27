@@ -1,0 +1,49 @@
+.heading {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1603574670812-d24560880210?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG9ncmFwaGVyJTIwd2l0aCUyMGNhbWVyYXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: 100%;
+    padding: 100px;
+
+}
+
+body{
+    width: 400px;
+    margin: auto;
+}
+
+.heading_two {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.heading_three {
+    color: tomato;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.heading_four {
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.heading_five {
+    color: white;
+    border-radius: 5px;
+    text-transform: capitalize;
+    background-color: red;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
